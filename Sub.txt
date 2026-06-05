@@ -36,3 +36,4 @@ vless://ec5074dd-ea94-474e-8a2d-489ad6e84ab9@172.64.154.21:8880?path=%2F&securit
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#Tel%3A%40mrvpn294
 vless://809cc7e3-e0f8-4a11-960c-665f3c2433d8@151.101.108.223:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Tel%3AMrvpn294
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#Tel%3A%40mrvpn294
+vless://ec5074dd-ea94-474e-8a2d-489ad6e84ab9@172.64.154.21:8880?path=%2F&security=&encryption=none&host=bgp.minefun.ir&type=ws#8880-8880
