@@ -25,3 +25,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6oyIiwiYWRkIjoiNDUuMTMwLjEyNS4xNTgiLCJwb3J0
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@45.130.125.158:443?encryption=none&type=ws&security=tls&path=%2F%3Fed&host=misaka.cndyw.ggff.net&sni=misaka.cndyw.ggff.net&fp=ios&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA1
 vless://6682035b-8de0-4603-9e8a-b496857897b2@172.67.220.199:2095?encryption=none&type=ws&path=%2F&host=n5.asmdns.net#%F0%9F%87%A9%F0%9F%87%AA%2C
 vless://bf2e4217-a1ad-41fb-88ac-4878956ae2db@45.130.125.158:443?encryption=none&type=ws&security=tls&path=%2F%3Fedfp&host=sheynezterary.iran-tube-movie.ir&sni=sheynezterary.iran-tube-movie.ir&alpn=http%2F1.1&fp=ios&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA
+vless://1f3acf1f-b998-49fd-9b59-a5b11ac37e95@45.130.125.158:443?path=%2Fid-amz&security=tls&encryption=none&insecure=0&host=bakrie.ac.id.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=bakrie.ac.id.r3xxe.eu.cc#%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7%20%D8%A8%D9%85%D8%A8
