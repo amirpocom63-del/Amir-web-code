@@ -1,7 +1,7 @@
 vless://83f0cf65-231d-f9e0-7cd6-0fbe48ca9397@panel.amirpocom6l.workers.dev:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#Amir-VLESS
 trojan://83f0cf65-231d-f9e0-7cd6-0fbe48ca9397@panel.amirpocom6l.workers.dev:443?path=%2FAmir&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Amir
 vless://416d6972-0000-4000-8000-00@188.114.97.6:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
-
+trojan://hpp19921992@www.speedtest.net:2087?path=%2FeyJqdW5rIjoib2oxUENQZkZ1dyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=vAsVAS.PAgeS.DeV#bpb%20unlimited%20%F0%9F%98%8E
 vless://416d6972-0000-4000-8000-000000000000@188.114.97.6:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
 vless://416d6972-0000-4000-8000-000000000000@104.25.144.12:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#V-Core-104.25.144.12
 vless://416d6972-0000-4000-8000-000000000000@104.25.144.12:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
