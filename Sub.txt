@@ -1,2 +1,12 @@
 vless://83f0cf65-231d-f9e0-7cd6-0fbe48ca9397@panel.amirpocom6l.workers.dev:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#Amir-VLESS
 trojan://83f0cf65-231d-f9e0-7cd6-0fbe48ca9397@panel.amirpocom6l.workers.dev:443?path=%2FAmir&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Amir
+vless://416d6972-0000-4000-8000-00@188.114.97.6:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
+
+vless://416d6972-0000-4000-8000-000000000000@188.114.97.6:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
+vless://416d6972-0000-4000-8000-000000000000@104.25.144.12:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#V-Core-104.25.144.12
+vless://416d6972-0000-4000-8000-000000000000@104.25.144.12:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
+vless://416d6972-0000-4000-8000-000000000000@172.67.164.32:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
+vless://416d6972-0000-4000-8000-000000000000@172.67.164.32:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#V-Core-172.67.164.32
+vless://416d6972-0000-4000-8000-000000000000@194.36.55.24:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#T-Core-VLESS
+vless://416d6972-0000-4000-8000-000000000000@194.36.55.24:443?path=%2FAmir&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=panel.amirpocom6l.workers.dev#V-Core-194.36.55.24
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn9-33.vk-cdnvideo.com#%D8%A7%D9%84%D9%85%D8%A7%D9%86
