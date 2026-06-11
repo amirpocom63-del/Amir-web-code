@@ -1,6 +1,5 @@
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#test
 vless://3d772cc0-ecf0-47c1-8e41-a00af923f1a0@185.186.244.116:443?encryption=none&security=tls&sni=nova.amirpocom63.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova.amirpocom63.workers.dev&path=%2F#mrvpn294-443
-🔗 لینک‌های کانفیگ:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWVpoanUzMGh0TWVMalVBamlfaW9n@3.9.115.249:1003#%40BioBioVPN%20%28event4_8503523539%29%20%5BShadowsocks%20-%20tcp%5D
 
