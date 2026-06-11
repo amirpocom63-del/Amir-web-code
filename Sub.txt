@@ -1,3 +1,30 @@
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&type=ws&host=www.calmloud.com&path=%2Fassignment#test
+vless://3d772cc0-ecf0-47c1-8e41-a00af923f1a0@185.186.244.116:443?encryption=none&security=tls&sni=nova.amirpocom63.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=nova.amirpocom63.workers.dev&path=%2F#mrvpn294-443
+🔗 لینک‌های کانفیگ:
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWVpoanUzMGh0TWVMalVBamlfaW9n@3.9.115.249:1003#%40BioBioVPN%20%28event4_8503523539%29%20%5BShadowsocks%20-%20tcp%5D
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWVpoanUzMGh0TWVMalVBamlfaW9n@20.59.31.117:1003#%40BioBioVPN%20%28event4_8503523539%29%20%5BShadowsocks%20-%20tcp%5D
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWVpoanUzMGh0TWVMalVBamlfaW9n@3.68.214.199:1003#%40BioBioVPN%20%28event4_8503523539%29%20%5BShadowsocks%20-%20tcp%5D
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@3.9.115.249:1001?security=none&type=tcp&headerType=&path=&host=#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20tcp%5D
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@20.59.31.117:1001?security=none&type=tcp&headerType=&path=&host=#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20tcp%5D
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@3.68.214.199:1001?security=none&type=tcp&headerType=&path=&host=#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20tcp%5D
+
+vmess://eyJhZGQiOiIzLjkuMTE1LjI0OSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzNWIwY2MxZC1mYzkxLTQyMDctOTcwYy04MmY1YjQ0OGUyMjkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDIiLCJwcyI6IkBCaW9CaW9WUE4gKGV2ZW50NF84NTAzNTIzNTM5KSBbVk1lc3MgLSB0Y3BdIiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiIiwidiI6IjIifQ
+
+vmess://eyJhZGQiOiIyMC41OS4zMS4xMTciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzViMGNjMWQtZmM5MS00MjA3LTk3MGMtODJmNWI0NDhlMjI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAyIiwicHMiOiJAQmlvQmlvVlBOIChldmVudDRfODUwMzUyMzUzOSkgW1ZNZXNzIC0gdGNwXSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0
+
+vmess://eyJhZGQiOiIzLjY4LjIxNC4xOTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMzViMGNjMWQtZmM5MS00MjA3LTk3MGMtODJmNWI0NDhlMjI5IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDAyIiwicHMiOiJAQmlvQmlvVlBOIChldmVudDRfODUwMzUyMzUzOSkgW1ZNZXNzIC0gdGNwXSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6IiIsInYiOiIyIn0
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@3.9.115.249:1008?security=reality&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&sid=cc0fe3bfea219901#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20grpc%5D
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@20.59.31.117:1008?security=reality&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&sid=cc0fe3bfea219901#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20grpc%5D
+
+vless://bb1ef34d-8bb2-4752-8dfe-3885eec6510b@3.68.214.199:1008?security=reality&type=grpc&headerType=&serviceName=grpc&authority=&mode=gun&sni=www.apple.com&fp=chrome&pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&sid=cc0fe3bfea219901#%40BioBioVPN%20%28event4_8503523539%29%20%5BVLESS%20-%20grpc%5D
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.147.137:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#Mrvpn-Irancell
 
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080?path=%2F&security=&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#Mrvpn-Irancell
