@@ -1,1 +1,3 @@
-vless://7d613ded-ae0e-4243-98d6-86f60c870b61@shop.marsastore.ir:443?security=reality&encryption=none&pbk=vXmCBI704OovNRht0g6IXcN7OfRgID9c84uKXJBbfU0&host=amirwebcode.dpdns.org&headerType=none&fp=chrome&spx=%2FJprxa3Pq7FmzqHT&type=tcp&sni=www.amazon.com&sid=15#تانل
+vless://5737fa12-3a6d-4db9-83fe-0235b9b3c5e2@u-next.com:443?encryption=none&security=tls&sni=voidlatency-fkf4gl.amirv5v.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=voidlatency-fkf4gl.amirv5v.workers.dev&path=%2F#amir
+vless://5737fa12-3a6d-4db9-83fe-0235b9b3c5e2@insta-miner.ir:443?encryption=none&security=tls&sni=voidlatency-fkf4gl.amirv5v.workers.dev&fp=ios&insecure=0&allowInsecure=0&type=ws&host=voidlatency-fkf4gl.amirv5v.workers.dev&path=%2F#amir
+vless://5737fa12-3a6d-4db9-83fe-0235b9b3c5e2@parsvds.ir:443?encryption=none&security=tls&sni=voidlatency-fkf4gl.amirv5v.workers.dev&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=voidlatency-fkf4gl.amirv5v.workers.dev&path=%2F#amir
